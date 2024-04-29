@@ -26,5 +26,13 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+```
+NAME : MATHESWARAN K
+REG NO : 212222110024
+```
+![image](https://github.com/mathes6112004/WDM_EXP10/assets/119477782/2a06629e-e9ea-45a4-aeac-c81c9c5ecc2e)
+![image](https://github.com/mathes6112004/WDM_EXP10/assets/119477782/122494ea-943a-47db-9c96-4e615e05e55d)
+![image](https://github.com/mathes6112004/WDM_EXP10/assets/119477782/f83b1c42-0a60-41e3-b217-84406f35f9ea)
 
 ### Result:
+Thus sentimental analysis for twitter data is executed successfully using rapidminer.
